@@ -1,4 +1,4 @@
-# Code-Theque--React
+# Code-Block--React
 
 This is a dynamic website which allows user to create Playgrounds( coding folders & files) with language & theme as per user's will being a great alternative to regular Online Code Editors around.
 
